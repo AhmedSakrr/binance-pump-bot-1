@@ -7,7 +7,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+  <code>BINANCE PUMP</code>
         </p>
         <a
           className="App-link"
@@ -15,7 +15,6 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          BINANCE PUMPS BOT
         </a>
       </header>
     </div>
